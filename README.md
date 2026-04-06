@@ -18,3 +18,6 @@ This project is an interactive sales dashboard built using Microsoft Excel.
 - Some regions generate higher revenue than others
 - Strong profit margins observed
 
+- ## 📷 Dashboard Preview
+(sales excel dashboard)
+
