@@ -20,6 +20,5 @@ This project is an interactive sales dashboard built using Microsoft Excel.
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](sales excel dashboard.png)
-
+![Sales Dashboard](sales-dashboard-preview.png)
 
