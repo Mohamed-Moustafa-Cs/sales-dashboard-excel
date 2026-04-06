@@ -19,5 +19,5 @@ This project is an interactive sales dashboard built using Microsoft Excel.
 - Strong profit margins observed
 
 - ## 📷 Dashboard Preview
-(sales excel dashboard)
+(sales excel dashboard.png)
 
